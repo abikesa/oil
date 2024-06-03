@@ -1,4 +1,4 @@
-### [Top 10 Oil-Producing Countries in 2024](https://worldpopulationreview.com/country-rankings/oil-producing-countries)
+### [Top Oil-Producing Countries in 2024](https://worldpopulationreview.com/country-rankings/oil-producing-countries)
 
 Country | Barrels per day
 --|--
@@ -13,7 +13,7 @@ Iran	| 3822.00
 Brazil	| 3107.00
 Kuwait	| 3028.00
 
-### [Top 10 Countries with the Largest Oil Reserves in 2022](https://worldpopulationreview.com/country-rankings/oil-producing-countries)
+### [Largest Oil Reserves in 2022](https://worldpopulationreview.com/country-rankings/oil-producing-countries)
 
 Country | '000,000 Barrels 
 --|--
