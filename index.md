@@ -14,6 +14,7 @@ Brazil	| 3107.00
 Kuwait	| 3028.00
 
 ### [Top 10 Countries with the Largest Oil Reserves in 2022](https://worldpopulationreview.com/country-rankings/oil-producing-countries)
+
 Country | '000,000,000 Barrels)
 --|--
 Venezuela	| 303,221
